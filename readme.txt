@@ -7,7 +7,7 @@ Plugin URI: https://mainwp.com
 Requires at least: 6.2
 Tested up to: 6.8.3
 Requires PHP: 7.4
-Stable tag: 5.4.0.15
+Stable tag: 6.0-rc.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -240,4 +240,5 @@ We have an extensive FAQ with more questions and answers [here](https://mainwp.c
 = 5.2.1 - 11-20-2024 =
 
 * Added: After activating the MainWP plugin, users are now redirected to the MainWP Settings page for a smoother onboarding experience.
+
 * Updated: The Unique Security ID option is now enabled by default to enhance security for all MainWP installations.
